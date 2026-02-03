@@ -276,9 +276,15 @@ python main.py
 💡 **AI & Automation Enthusiast**  
 🚀 **Passionate about building intelligent systems**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/developerSakshi365/AURA---Voice-Controlled-Assistant.git)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-vishwakarma-21098b27b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3udjrrQQJSdawVEePe3iQ%3D%3D)
-
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sakshi-vishwakarma-21098b27b" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
+</a>
+  <a href="mailto:developersakshi365@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" />
+  </a>
+</p>
 </div>
 
 ---
@@ -287,7 +293,7 @@ python main.py
 
 ```
 This project is developed for educational and academic purposes only.
-© 2024 Sakshi Vishwakarma. All Rights Reserved.
+© 2026 Sakshi Vishwakarma. All Rights Reserved.
 ```
 
 ---
