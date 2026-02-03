@@ -275,6 +275,7 @@ python main.py
 🎓 **TYBSc-IT | Data Science**  
 💡 **AI & Automation Enthusiast**  
 🚀 **Passionate about building intelligent systems**
+</div>
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -285,7 +286,6 @@ python main.py
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" />
   </a>
 </p>
-</div>
 
 ---
 
