@@ -156,13 +156,13 @@ Follow these steps to set up and run Aura on your local machine:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/aura-voice-assistant.git
+git clone https://github.com/developerSakshi365/AURA---Voice-Controlled-Assistant.git
 ```
 
 ### 2️⃣ Navigate to Project Directory
 
 ```bash
-cd aura-voice-assistant
+cd AURA---Voice-Controlled-Assistant
 ```
 
 ### 3️⃣ Create Virtual Environment
@@ -244,7 +244,6 @@ python main.py
 
 ## 🔮 Future Enhancements
 
-- [ ] 🎯 Wake-word detection ("Hey Aura")
 - [ ] 🤖 Machine learning-based intent classification
 - [ ] 📴 Offline voice processing capabilities
 - [ ] 🌍 Cross-platform support (Windows, macOS, Linux)
@@ -255,7 +254,7 @@ python main.py
 - [ ] 🔐 Voice authentication security
 
 ---
-
+<!-- 
 ## 🎥 Demo Video
 
 > **Experience Aura in action!** Watch the complete demonstration below:
@@ -265,7 +264,7 @@ python main.py
 
 > 🎬 *Demo video showcasing voice commands, GUI interaction, and system responses*
 
----
+--- -->
 
 ## 👩‍💻 Author
 
@@ -277,8 +276,8 @@ python main.py
 💡 **AI & Automation Enthusiast**  
 🚀 **Passionate about building intelligent systems**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/developerSakshi365/AURA---Voice-Controlled-Assistant.git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-vishwakarma-21098b27b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3udjrrQQJSdawVEePe3iQ%3D%3D)
 
 </div>
 
