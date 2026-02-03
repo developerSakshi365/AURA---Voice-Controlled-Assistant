@@ -1,0 +1,283 @@
+{
+  "search_google": [
+    "search for",
+    "search google for",
+    "google search",
+    "find on google",
+    "look up"
+  ],
+
+  "open_chrome": [
+    "open chrome",
+    "open browser",
+    "launch chrome",
+    "start chrome"
+  ],
+
+  "open_explorer": [
+    "open file explorer",
+    "open explorer",
+    "open files",
+    "show files"
+  ],
+
+  "open_notepad": [
+    "open notepad",
+    "start notepad",
+    "create note"
+  ],
+
+  "open_calculator": [
+    "open calculator",
+    "start calculator",
+    "launch calculator"
+  ],
+
+  "close_app": [
+    "close application",
+    "exit application",
+    "quit application",
+    "close this app"
+  ],
+
+  "shutdown": [
+    "shutdown system",
+    "shut down computer",
+    "power off system"
+  ],
+
+  "restart": [
+    "restart system",
+    "reboot system",
+    "restart computer"
+  ],
+
+  "lock": [
+    "lock system",
+    "lock computer",
+    "lock screen"
+  ],
+
+  "volume_up": [
+    "increase volume",
+    "volume up",
+    "turn up volume"
+  ],
+
+  "volume_down": [
+    "decrease volume",
+    "volume down",
+    "turn down volume"
+  ],
+
+  "mute": [
+    "mute",
+    "mute volume",
+    "silence volume"
+  ],
+
+  "unmute": [
+    "unmute",
+    "unmute volume"
+  ],
+
+  "time": [
+    "what time is it",
+    "tell me the time",
+    "current time"
+  ],
+
+  "date": [
+    "what is today's date",
+    "tell me the date",
+    "current date"
+  ],
+
+  "stop": [
+    "stop",
+    "cancel",
+    "halt"
+  ],
+
+  "open_whatsapp": [
+    "open whatsapp",
+    "launch whatsapp"
+  ],
+
+  "search_youtube": [
+    "search youtube for",
+    "find on youtube",
+    "play on youtube"
+  ],
+
+  "brightness_up": [
+    "increase brightness",
+    "brightness up"
+  ],
+
+  "brightness_down": [
+    "decrease brightness",
+    "brightness down"
+  ],
+
+  "open_word": [
+    "open microsoft word",
+    "start word"
+  ],
+
+  "open_excel": [
+    "open microsoft excel",
+    "start excel"
+  ],
+
+  "open_powerpoint": [
+    "open powerpoint",
+    "start powerpoint"
+  ],
+
+  "take_screenshot": [
+    "take screenshot",
+    "capture screen"
+  ],
+
+  "open_task_manager": [
+    "open task manager",
+    "show task manager"
+  ],
+
+  "open_settings": [
+    "open settings",
+    "windows settings"
+  ],
+
+  "tell_joke": [
+    "tell me a joke",
+    "make me laugh"
+  ],
+
+  "weather": [
+    "what's the weather",
+    "weather today"
+  ],
+
+  "news": [
+    "latest news",
+    "tell me the news"
+  ],
+
+  "set_alarm": [
+    "set alarm",
+    "wake me up at"
+  ],
+
+  "set_reminder": [
+    "set reminder",
+    "remind me"
+  ],
+
+  "open_email": [
+    "open email",
+    "check email"
+  ],
+
+  "create_folder": [
+    "create folder",
+    "new folder"
+  ],
+"screen_record_start": [
+  "start screen recording",
+  "start recording",
+  "record screen",
+  "screen recording start"
+],
+
+  "delete_file": [
+    "delete file",
+    "remove file"
+  ],
+
+  "wifi_on": [
+    "turn on wifi",
+    "enable wifi"
+  ],
+
+  "wifi_off": [
+    "turn off wifi",
+    "disable wifi"
+  ],
+
+  "bluetooth_on": [
+    "turn on bluetooth",
+    "enable bluetooth"
+  ],
+
+  "bluetooth_off": [
+    "turn off bluetooth",
+    "disable bluetooth"
+  ],
+
+  "battery_status": [
+    "battery status",
+    "battery percentage"
+  ],
+
+  "system_info": [
+    "system information",
+    "computer specs"
+  ],
+
+  "open_camera": [
+    "open camera",
+    "start camera"
+  ],
+
+  "translate": [
+    "translate",
+    "translate this"
+  ],
+
+  "calculate": [
+    "calculate",
+    "compute"
+  ],
+"switch_window": [
+  "switch window",
+  "change window",
+  "next window",
+  "switch app",
+  "change app"
+],
+
+"next_tab": [
+  "next tab",
+  "switch tab",
+  "change tab",
+  "go to next tab"
+],
+
+"previous_tab": [
+  "previous tab",
+  "go back tab",
+  "last tab"
+],
+
+  "define": [
+    "define",
+    "meaning of"
+  ],
+
+  "motivate": [
+    "motivate me",
+    "inspire me"
+  ],
+
+  "flip_coin": [
+    "flip a coin",
+    "heads or tails"
+  ],
+
+  "roll_dice": [
+    "roll a dice",
+    "dice roll"
+  ]
+}
